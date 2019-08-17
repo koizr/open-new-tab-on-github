@@ -8,5 +8,7 @@
       "matches": ["https://github.com/*"],
       "js": ["app.js"]
     }
-  ]
+  ],
+  "options_page": "options.html",
+  "permissions": ["https://github.com/*", "storage"]
 }
